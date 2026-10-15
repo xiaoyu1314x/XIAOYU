@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>我的教育网站</title>
+    <style>
+        body {
+            background-color: #f0f8ff;
+            font-family: "Microsoft Yahei", sans-serif;
+            text-align: center;
+            margin-top: 80px;
+        }
+        h1 {
+            color: #2c5282;
+        }
+        p {
+            font-size: 18px;
+            color: #444444;
+        }
+    </style>
+</head>
+<body>
+    <h1>欢迎来到我的免费教育网站</h1>
+    <p>这是教育技术作业要求的HTML页面。</p>
+</body>
+</html>
